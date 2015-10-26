@@ -1,0 +1,14 @@
+{
+  "name": "ember-cli-react-shims",
+  "main": "app-shims.js",
+  "version": "0.14.0",
+  "homepage": "https://github.com/atsjj/ember-cli-react-shims",
+  "author": "Steve Jabour <steve@jabour.me>",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
